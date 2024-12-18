@@ -3,8 +3,9 @@
 
 ### Правила
 - [7 Чудес ](https://hobbygames.ru/download/rules/7_chudes_2020_Rules.pdf)
-  - [7 Чудес Дуэль](https://hobbygames.ru/download/rules/rules_7-wonders-duel.pdf)
-  - [7 чудес Архитекторы](https://hobbygames.ru/download/rules/7_Wonders_Architects_Rules.pdf)
+  - [7 Чудес Лидеры](https://tesera.ru/images/items/152617/7Wonders-Leaders-Rules-RU_v1.pdf)
+- [7 Чудес Дуэль](https://hobbygames.ru/download/rules/rules_7-wonders-duel.pdf)
+- [7 чудес Архитекторы](https://hobbygames.ru/download/rules/7_Wonders_Architects_Rules.pdf)
 - [Артишоки в шоке](https://hobbygames.ru/download/rules/Artishoki_v_shoke_rules.pdf)
 - [Битва за рокуган](https://hobbygames.ru/download/rules/Bitva_za_Rokugan_Rules.pdf)
 - [Бэнг](https://hobbygames.ru/download/rules/bang_rules-web_2015.pdf)
