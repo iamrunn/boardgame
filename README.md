@@ -3,7 +3,7 @@
 
 ### Правила
 - [7 Чудес](https://hobbygames.ru/download/rules/7_chudes_2020_Rules.pdf)
-  - [Города]((https://tesera.ru/images/items/1910422/Cities%20rus%20v1.1.pdf)) - [первое издание](https://www.igroved.ru/games/7-wonders-cities/rules_7-wonders-cities.pdf)
+  - [Города](https://tesera.ru/images/items/1910422/Cities%20rus%20v1.1.pdf) - [первое издание](https://www.igroved.ru/games/7-wonders-cities/rules_7-wonders-cities.pdf)
   - [Лидеры](https://tesera.ru/images/items/1910425/Leaders%20rus%20v1.1.pdf) - [первое издание](https://tesera.ru/images/items/152617/7Wonders-Leaders-Rules-RU_v1.pdf)
   - [Армада](https://tesera.ru/images/items/1910428/Armada%20rus.pdf) (есть памятка по всем пунктам подсчета очков)
 - [7 Чудес Дуэль](https://hobbygames.ru/download/rules/rules_7-wonders-duel.pdf)
