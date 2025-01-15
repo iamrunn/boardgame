@@ -37,7 +37,7 @@
 - [x] [Кулинариум](https://hobbygames.ru/download/rules/Kulinarium_rules-web.pdf)
 - [Мачи коро](https://hobbygames.ru/download/rules/Machi_Koro_rules-web_2015.pdf)
 - [x] [Море соль бумага](https://hobbygames.ru/download/rules/More_sol_bumaga_Rules.pdf)
-  - [x] [Больше соли](rules/sea-salt-paper-more-salt.pdf)
+  - [x] [Больше соли](rules/sea-salt-paper-more-salt.pdf) - [обзор](https://boardgamer.ru/v-chyom-sol-izuchaem-dopolnenie-bolshe-soli/?ysclid=m5n1qtz4yr654375293)
 - [Первый контакт](https://tesera.ru/images/items/1395920/b5cbce9050d28ab0a74cecea3fb85fcd.pdf)
 - [Переворот](https://hobbygames.ru/download/rules/perevorot-rules2.pdf)
 - [Письма призрака](https://hobbygames.ru/download/rules/Pisma_Prizraka_Rules.pdf)
