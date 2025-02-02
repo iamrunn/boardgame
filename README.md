@@ -9,7 +9,7 @@
 - [7 Чудес Дуэль](https://hobbygames.ru/download/rules/rules_7-wonders-duel.pdf)
   - [Агора](https://tesera.ru/images/items/1782952/%D0%90%D0%B3%D0%BE%D1%80%D0%B0(%D1%80%D1%83%D1%81).pdf)
   - [Пантеон](https://tesera.ru/images/items/873458/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD.pdf)
-- [7 чудес Архитекторы](https://hobbygames.ru/download/rules/7_Wonders_Architects_Rules.pdf)
+- [7 чудес Архитекторы](https://hobbygames.ru/download/rules/7_Wonders_Architects_Rules.pdf) - ([обзор](https://nastol.io/publications/4631_7_cudes_arxitektory_stan_lucsim_zodcim_drevnego_mira))
   - [Медали](https://hobbygames.ru/download/rules/7-wonders-architects-medals-rules.pdf)
 - [Артишоки в шоке](https://hobbygames.ru/download/rules/Artishoki_v_shoke_rules.pdf)
 - [Битва за рокуган](https://hobbygames.ru/download/rules/Bitva_za_Rokugan_Rules.pdf)
