@@ -6,11 +6,11 @@
   - [x] [Города](https://tesera.ru/images/items/1910422/Cities%20rus%20v1.1.pdf) - [эффекты](https://tesera.ru/images/items/1941835/7ci-ru02-effects-description.pdf) - [первое издание](https://www.igroved.ru/games/7-wonders-cities/rules_7-wonders-cities.pdf)
   - [x] [Лидеры](https://tesera.ru/images/items/1910425/Leaders%20rus%20v1.1.pdf) - [эффекты](https://tesera.ru/images/items/1941837/7le-ru02-effects-description.pdf) - [первое издание](https://tesera.ru/images/items/152617/7Wonders-Leaders-Rules-RU_v1.pdf)
   - [Армада](https://tesera.ru/images/items/1910428/Armada%20rus.pdf) - [эффекты](https://tesera.ru/images/items/1913338/Armada%20des%20rus.pdf) (есть памятка по всем пунктам подсчета очков)
-- [7 Чудес Дуэль](https://hobbygames.ru/download/rules/rules_7-wonders-duel.pdf)
-  - [Агора](https://tesera.ru/images/items/1782952/%D0%90%D0%B3%D0%BE%D1%80%D0%B0(%D1%80%D1%83%D1%81).pdf)
-  - [Пантеон](https://tesera.ru/images/items/873458/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD.pdf)
+- [x] [7 Чудес Дуэль](https://hobbygames.ru/download/rules/rules_7-wonders-duel.pdf)
+  - [x] [Агора](https://tesera.ru/images/items/1782952/%D0%90%D0%B3%D0%BE%D1%80%D0%B0(%D1%80%D1%83%D1%81).pdf)
+  - [x] [Пантеон](https://tesera.ru/images/items/873458/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD.pdf)
 - [7 чудес Архитекторы](https://hobbygames.ru/download/rules/7_Wonders_Architects_Rules.pdf) - ([обзор](https://nastol.io/publications/4631_7_cudes_arxitektory_stan_lucsim_zodcim_drevnego_mira))
-  - [Медали](https://hobbygames.ru/download/rules/7-wonders-architects-medals-rules.pdf)
+  - [x] [Медали](https://hobbygames.ru/download/rules/7-wonders-architects-medals-rules.pdf)
 - [Артишоки в шоке](https://hobbygames.ru/download/rules/Artishoki_v_shoke_rules.pdf)
 - [Битва за рокуган](https://hobbygames.ru/download/rules/Bitva_za_Rokugan_Rules.pdf)
 - [Бэнг](https://hobbygames.ru/download/rules/bang_rules-web_2015.pdf)
@@ -33,7 +33,7 @@
   - [Картинки](https://gaga.ru/gaga/files/pdf/rules/ru/3266.pdf)
 - [Королевские хроники](https://hobbygames.ru/download/rules/PG-17024_Instruction_rus.pdf)
 - [Лоскутное королевство](https://hobbygames.ru/download/rules/rules_kingdomino.pdf)
-  - [Истоки](https://hobbygames.ru/download/rules/Kingdomino_Origins_Rules.pdf)
+  - [x] [Истоки](https://hobbygames.ru/download/rules/Kingdomino_Origins_Rules.pdf)
 - [x] [Кулинариум](https://hobbygames.ru/download/rules/Kulinarium_rules-web.pdf)
 - [Мачи коро](https://hobbygames.ru/download/rules/Machi_Koro_rules-web_2015.pdf)
 - [x] [Море соль бумага](https://hobbygames.ru/download/rules/More_sol_bumaga_Rules.pdf)
@@ -48,5 +48,5 @@
 - [x] [Цитадели Делюкс](https://hobbygames.ru/download/rules/Citadels%20Deluxe_Rules_RU.pdf)
 
 ### Онлайн
-- [Кодовые имена](https://codenames.ivavi.online)
+- [Кодовые имена](https://codenames.runn.space)
 - Первый контакт
