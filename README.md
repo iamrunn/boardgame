@@ -14,6 +14,7 @@
 - [Артишоки в шоке](https://hobbygames.ru/download/rules/Artishoki_v_shoke_rules.pdf)
 - [Битва за рокуган](https://hobbygames.ru/download/rules/Bitva_za_Rokugan_Rules.pdf)
 - [Бэнг](https://hobbygames.ru/download/rules/bang_rules-web_2015.pdf)
+- [Ваальбара](https://hobbygames.ru/download/rules/Vaalbara_Rules.pdf)
 - [Взрывные котята](https://hobbygames.ru/download/rules/Exploding%20Kittens_Rules.pdf)
   - *[Зомби котята](https://hobbygames.ru/download/rules/Zombie_Kittens_Rules.pdf) + [совмещение с базой](https://hobbygames.ru/download/rules/Zombi_apocalipsis_rules.pdf)
   - [Лающие котята](https://hobbygames.ru/download/rules/Lajushhie_kotjata_Rules.pdf)
@@ -41,10 +42,12 @@
 - [Первый контакт](https://tesera.ru/images/items/1395920/b5cbce9050d28ab0a74cecea3fb85fcd.pdf)
 - [Переворот](https://hobbygames.ru/download/rules/perevorot-rules2.pdf)
 - [Письма призрака](https://hobbygames.ru/download/rules/Pisma_Prizraka_Rules.pdf)
+- [Придворные](https://images.firma-gamma.ru/files/instructions-pr/G/c/0/d/b/135788031804/%D0%9F%D1%80%D0%B8%D0%B4%D0%B2%D0%BE%D1%80%D0%BD%D1%8B%D0%B5_rulebook_RU_SPREADS_PRINT.pdf)
 - [Продано](https://hobbygames.ru/download/rules/Prodano_Pravila.pdf)
 - [x] [Селестия](https://hobbygames.ru/download/rules/Selestia_Rules.pdf)
   - [Бунт на корабле](https://hobbygames.ru/download/rules/Selestia_Bunt_Rules.pdf)
-  - [Рука помощи](https://hobbygames.ru/download/rules/Pravila_selestia_ruka_pomoshi_compressed.pdf)
+  - [Рука помощи](https://hobbygames.ru/download/rules/Pravila_selestia_ruka_pomoshi_compressed.pdf) 
+- [Средневековая академия](https://hobbygames.ru/download/rules/srednevekovaja-akademija-rules.pdf)
 - [x] [Цитадели Делюкс](https://hobbygames.ru/download/rules/Citadels%20Deluxe_Rules_RU.pdf)
 
 ### Онлайн
